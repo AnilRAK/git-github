@@ -1,1 +1,2 @@
+I am adding a new line here to explain the bracnhing concept
 This is a new file in the fisrtbranch
